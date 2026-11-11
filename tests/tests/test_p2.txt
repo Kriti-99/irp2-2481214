@@ -1,0 +1,28 @@
+Test Case 1
+
+Input:
+10 20 30 40 50
+30
+
+Expected Output:
+Element found at index: 2
+
+
+Test Case 2
+
+Input:
+5 10 15 20 25
+100
+
+Expected Output:
+Element not found
+
+
+Test Case 3
+
+Input:
+1 2 3 4 5
+1
+
+Expected Output:
+Element found at index: 0
