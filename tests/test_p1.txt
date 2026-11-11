@@ -1,0 +1,25 @@
+Test Case 1
+
+Input:
+I love programming
+
+Expected Output:
+programming love I
+
+
+Test Case 2
+
+Input:
+Hello World
+
+Expected Output:
+World Hello
+
+
+Test Case 3
+
+Input:
+Python is very easy
+
+Expected Output:
+easy very is Python
