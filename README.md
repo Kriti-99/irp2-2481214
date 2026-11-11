@@ -23,3 +23,10 @@ based on Data Structures and Algorithms.
 ## Folder Structure
 - problems/: Python programs
 - tests/: Test cases and expected outputs
+- ## Development
+
+This section contains development updates
+made in the dev branch.
+
+All Python programs are tested using
+different test cases.
